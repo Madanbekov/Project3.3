@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project3.3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragments_project_n4_page">Fragments Project\n4 page</string>
+</resources>
